@@ -27,6 +27,7 @@
 ###
 
 <p data-importer="text" align="left">I'm Théo from Dijon<br><br>I use this Github to work and for my personal project, such as the Hllow knight website i have created.</p>
+<p data-importer="text" align="left"> I am looking for an alternance.</p>
 
 ###
 
